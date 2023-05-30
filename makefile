@@ -11,4 +11,4 @@ README.md: guessinggame.sh
     @echo >> README.md
     @echo "## GitHub Pages" >> README.md
     @echo >> README.md
-    @echo "The GitHub Pages site for this project is available at: [GitHub Pages]($(GITHUB_PAGES_URL))" >> README.md
+    @echo "The GitHub Pages site for this project is available at: [GitHub Pages]($(https://pw13052003.github.io/Linux-Workbench-Project))" >> README.md
